@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056184209664",
+    "project_id": "fir-class-b1551",
+    "storage_bucket": "fir-class-b1551.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056184209664:android:03ca3df3c1c05d0ad023e5",
+        "android_client_info": {
+          "package_name": "com.example.firebaseclass1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKcZkvYqKwFvPFAZbU1jBCxRzYrYRDOho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
